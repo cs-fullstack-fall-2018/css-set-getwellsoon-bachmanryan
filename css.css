@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+.harn{
+    font-family: 'MedievalSharp', cursive;
+}
+.garn{
+    font-family: 'MedievalSharp', cursive;
+}
+.farn{
+    font-family: 'MedievalSharp', cursive;
+}
+.jumbotron{
+    background-color: transparent;
+    color: darkblue;
+    padding-left: 70px;
+    padding-right: 70px;
+    font-size: 30px;
+    /*font-family: 'Hanalei Fill', cursive;*/
+    font-family: 'Monoton', cursive;
+}
+.textFont{
+
+}
+body{
+    padding: 40px;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+}
+/*body{*/
+
+    /*background:url(https://cdn.shopify.com/s/files/1/1628/7541/products/Emoji_21_Cake_69486f16-a94f-4293-ab70-8b696b50cfa1_1024x1024.JPG?v=1484087023.jpg)*/
+    /*center no-repeat; background-attachment:fixed;*/
+/*}*/
+html {
+    background: url(https://cdn.shopify.com/s/files/1/1628/7541/products/Emoji_21_Cake_69486f16-a94f-4293-ab70-8b696b50cfa1_1024x1024.JPG?v=1484087023.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
